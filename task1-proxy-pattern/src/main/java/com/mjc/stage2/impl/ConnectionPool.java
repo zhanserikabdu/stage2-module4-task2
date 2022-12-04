@@ -6,7 +6,6 @@ import com.mjc.stage2.Connection;
 import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.stream.IntStream;
-
 public class ConnectionPool {
     private static final int POOL_SIZE = 10;
     private static final String URL = "url";
